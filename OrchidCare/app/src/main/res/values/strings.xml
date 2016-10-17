@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Orchid Care</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="catasetum">Catasetum</string>
+    <string name="catasetum_desc">This unusual group of orchids offer
+        s fascinating, waxy flowers that often have the peculiar habi
+        t of discharging their pollen masses (pollinia) onto pollinat
+        ors. Almost always deciduous, the pseudobulbous plants have s
+        trict growing and resting periods. Most flower before enterin
+        g a dormant period when they drop their leaves.
+</string>
+
+    <string name="dendrobium">Dendrobium</string>
+    <string name="dendrobium_desc">Dendrobium is a diverse genus of o
+        rchids with different cultural needs. Many go through a growt
+        h phase and then a rest phase during the course of one year,
+        and must be given water and temperature to match these period
+        s of growth and rest. Flowers can last one day to many weeks,
+        depending on the type. Owing to the extreme diversity of the
+        genus, we have categorized culture according to the following
+        main types:
+</string>
+
+    <string name="miltonia">Miltonia</string>
+    <string name="miltonia_desc">These striking orchids, which are al
+        so known as pansy orchids, owing to their similarity to garde
+        n pansies, are enjoying increasing popularity. Miltoniopsis a
+        re cool-growing orchids that originate in the higher elevation
+        s of the Andes in Colombia, Panama and Ecuador. The warmer-gr
+        owing species, properly miltonias, originate from the Minas G
+        erais area of Brazil and more closely resemble large-flowered
+        oncidiums. Their flowers can be brilliantly patterned.
+</string>
+
+    <string name="novice_dendrobium">Novice Dendrobium</string>
+    <string name="novice_dendrobium_desc">Dendrobium is a diverse gen
+        us of orchids with different cultural needs. This culture inf
+        ormation is for the phalenopsis-type dendrobiums pictured abo
+        ve. They are evergreen with thin, tall stems (pseudobulbs).
+</string>
+
+    <string name="odontoglossum">Odontoglossum</string>
+    <string name="odontoglossum_desc">These high-altitude orchids fro
+        m the New World Tropics flourish where cool temperatures prev
+        ail year round. Odontoglossums are known for their striking s
+        prays of flowers. Culture is similar for hybrids in this grou
+        p, some being Odontonia, Odontioda and Vuylstekeara.
+</string>
+
+    <string name="phalaenopsis">Phalaenopsis</string>
+    <string name="phalaenopsis_desc">Phalaenopsis, the moth orchid, i
+        s perhaps the best orchid for growing in the home, and is als
+        o a favorite with greenhouse growers. Well-grown plants can f
+        lower often, sometimes with a few flowers throughout the year
+        , though the main season is late winter into spring. Average
+        home temperatures and conditions are usually sufficient. Flow
+        er stems on certain hybrids can be forced to rebloom by cutti
+        ng the tip off after the initial flowering. Only healthy plan
+        ts should be induced to flower repeatedly. Culture for Doriti
+        s, a related genus, thought by some to be conspecific with Ph
+        alaenopsis, and Doritaenopsis, a hybrid between the two gener
+        a, is the same as for pure Phalaenopsis.
+</string>
+
+    <string name="vanda">Vanda</string>
+    <string name="vanda_desc">The Vanda Alliance is made up mostly of
+        warm- and full-sun-growing orchids with colorful flowers. Ori
+        ginating in tropical Asia, they are easily grown in warm clim
+        ates, where plants are cultivated outside in light shade, suc
+        h as in a lath house. In climates where winters are cold, the
+        y are often summered outside, and grown inside during the win
+        ter in a sunny window, or year round in a greenhouse. Smaller
+        growing ascocendas are best outside tropical conditions.
+</string>
+
+    <string name="about_text">This app gives you, the user, an overvi
+        ew of what an orchid plant is.  The Home tab gives you a brie
+        fly description, the Search tab let you search through the di
+        fferent orchids covered in this app and then see their info.
+        The Add Orchid tab lets you create a reminder stored in a dat
+        abase that will prompt you with the name of your orchid, filt
+        er down to its type and the selection of a date to start the
+        guidance to its maintenance and finally the My Grove tab let
+        you see how many reminders you have created in the Add Orchid
+        tab.</string>
+
+    <string name="copyrights">App Made by: Saudeep - Copyrights 2016</string>
+
+    <string name="home_desc">Welcome to the fascinating world of
+        Orchids.  Orchids have a large variety of flowers, which you
+        can
+        enjoy from seeing it to take care of them.  They will bring
+        you happiness and entertainment.</string>
+</resources>
